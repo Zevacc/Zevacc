@@ -1,16 +1,15 @@
-## Hi there 👋
+## About me:
 
-<!--
-**Zevacc/Zevacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m @Zevacc or more commonly known online as Duzbarisvik.
 
-Here are some ideas to get you started:
+In general, I am a Minecraft map designer, though I also focus on video editing, game design, and storytelling. I am currently planning to release a film titled *Chernobyl's Ventilation Stack* (a Minecraft horror movie), but I have not yet written the script for it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My biggest project is probably {ЧАЭС}`s 1:1 working chernobyl project is still on construction the bassis mods are called "HBM Nuclear Mod" And "OpenComputers" 
+
+## How to contact me:
+
+- Discord: duzbarisvik
+
+## Experiences:
+
+[![My Skills](https://skillicons.dev/icons?i=js,lua,html,python,discord,discordjs,robloxstudio)](https://skillicons.dev)
